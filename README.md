@@ -111,8 +111,8 @@
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahsananwar921&show_icons=true&locale=en" alt="ahsananwar921" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsananwar921&" alt="ahsananwar921" />
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsananwar921&show_icons=true&locale=en&layout=compact" alt="ahsananwar921" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahsananwar921&show_icons=true&locale=en" alt="ahsananwar921" /> 
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsananwar921&" alt="ahsananwar921" /> -->
 </p>
