@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ahsan Anwar</h1>
 <h3 align="center">🚀 Enthusiast Software Engineer | Turning Ideas into Scalable Solutions 🌟</h3>
-<img align="right" src="https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea7950df203dacf6aeee4fc543a50/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" alt="Coding Freak" width="470" height="320">
+<img align="right" src="https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea7950df203dacf6aeee4fc543a50/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" alt="Coding Freak" width="430" height="320">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsananwar921&label=Profile%20views&color=0e75b6&style=flat" alt="ahsananwar921" /> </p>
 
